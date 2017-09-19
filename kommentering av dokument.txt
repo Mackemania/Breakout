@@ -1,0 +1,11 @@
+Färdiga:
+-point.js
+-block.js
+-circle.js
+-planka.js
+-ball.js
+
+Påbörjade:
+-kod.js
+
+Icke påbörjade:

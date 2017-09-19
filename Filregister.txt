@@ -1,0 +1,23 @@
+JavaScript-filer:
+-kod.js (Kälkoden till spelet med kollisioner, spelloopen och liknande)
+-planka.js (Koden för plankan och dess rörelser)
+-ball.js (Koden för bollen och hur den rör sig)
+-block.js (koden för blocken)
+-point.js (Koden för att skapa en punkt ovh funktion för att kola om två punkter är likadana)
+-circle.js (Koden för att skapa alla punkter i en mindre cirkel)
+-PowerUpController (Kod för skapandet av powerups)
+-InsertHS.js (Kod för att lägga in poäng i databasen)
+-top10.js
+
+PHP-filer:
+-index.php (Sidan som laddas in)
+-db.php (Skapar kontakten till databasen)
+-insertHS.php (Kod för att lägga in poäng i databasen)
+-showHS.php (Visar de highscorelistan)
+
+Grafik-filer:
+-LEVANDE1.png (Hjärta)
+-PowerUp01.png (bilde för powerups)
+
+CSS-filer:
+-style.css (Sätter stilen på index.php)

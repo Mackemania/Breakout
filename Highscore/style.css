@@ -1,0 +1,60 @@
+/*showHS.php*/
+@font-face {
+	font-family:breakoutFont;
+	src: url(font.ttf);
+}
+body{
+  background-color:gray ;
+  opacity: 0,75;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+  margin: auto;
+  text-align: center;
+}
+table,td,th{
+  border:3px solid black;
+  padding: 5px;
+  background-color: red;
+  text-align: center;
+  font-size:20px;
+
+  border-style: groove;
+  border-color: gray;
+  border-width: 2px;
+}
+div#SB{
+  background-color: purple;
+  width: 267px;
+  height: 99%;
+  padding-bottom: 6px;
+  float: right;
+  border-style: groove;
+  border-color: gray;
+  border-width: 2px;
+}
+tr#PersonalScore{
+  border-style: groove;
+  border-color: yellow;
+  border-width: 7px;
+}
+th{
+  text-align: center;
+  background-color: gray;
+}
+#Highscore{
+  margin: auto;
+}
+/*db.php*/
+  #Top10{
+    text-align: center;
+    padding-top: 5px;
+  }
+  /*Index*/
+  canvas#canvas{
+    float: left;
+    border-style: groove;
+    border-color: gray;
+    border-width: 2px;
+  }
